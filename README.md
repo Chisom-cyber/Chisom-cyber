@@ -1,8 +1,7 @@
-- 👋 Hi, I’m **Chisom Perpetua Ezeanochie** :😃:
+- 👋 Hi, I’m **Chisom Perpetua Ezeanochie** 😃
 - 👀 I’m interested in learning amazing stuff
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me  
+- 💞️ I’m looking to collaborate on open source projects 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a perfectionist
 
