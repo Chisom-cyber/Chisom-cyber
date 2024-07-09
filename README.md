@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data analytics
 - 💞️ I’m looking to collaborate on open source projects 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a perfectionist
+- ⚡ Fun fact: I am an adaptive perfectionist
 
 <!---
 Chisom-cyber/Chisom-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
